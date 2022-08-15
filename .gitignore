@@ -1,0 +1,8 @@
+cat .gitignore
+
+cat >> .gitignore
+veri_tabani
+
+
+ .gitignore
+git status
